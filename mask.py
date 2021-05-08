@@ -8,7 +8,7 @@ Created on Sat May  8 00:59:01 2021
 
 import cv2
 import numpy as np
-img=cv2.imread("foto.jpeg")
+img=cv2.imread("mask.jpg")
 
 img_width=img.shape[1]
 img_height=img.shape[0]
